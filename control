@@ -1,7 +1,7 @@
 Package: com.creatix.bunny
 Name: bunny
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 7.0.0
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: Creatix

@@ -1,7 +1,7 @@
 GO_EASY_ON_ME = 1
 THEOS_PACKAGE_DIR_NAME = debs
 ARCHS = armv7 arm64
-FINALPACKAGE = 1
+bunny_LDFLAGS += -Wl,-segalign,4000
 
 include $(THEOS)/makefiles/common.mk
 
